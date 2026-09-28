@@ -23,7 +23,9 @@
       id: N14WeaponLaserPistol
     - type: loadout
       id: N14WeaponLaserRevolver
-
+    - type: loadout
+      id: NWWeaponPistolEnclaveRemnants10mm
+ 
 
 - type: characterItemGroup
   id: N14LoadoutGunsBig
@@ -64,7 +66,8 @@
       id: N14WeaponSniperHunting
     - type: loadout
       id: N14WeaponSniper44LeverCarbine
-
+    - type: loadout
+      id: NWWeaponRifleM1GarandNewGlory
 
 - type: characterItemGroup
   id: N14LoadoutAmmo
