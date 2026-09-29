@@ -165,3 +165,9 @@
       id: MisfitsLoadoutHeadKhanFurHelmet
     - type: loadout
       id: MisfitsLoadoutHeadKhanFullHelmet
+    - type: loadout
+      id: NWClothingHeadHatEnclaveReconHelmet
+    - type: loadout
+      id: NWClothingHeadHatEnclaveNovemberReconHelmet
+    - type: loadout
+      id: NWClothingHeadHatEnclaveZuluReconHelmet

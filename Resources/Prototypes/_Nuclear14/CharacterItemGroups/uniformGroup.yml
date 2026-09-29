@@ -187,3 +187,10 @@
       id: MisfitsLoadoutUniformRustwalkersUniform
     - type: loadout # Misfits
       id: MisfitsLoadoutUniformWhiteLegsUniform
+    - type: loadout
+      id: NWLoadoutOuterEnclaveReconArmor
+    - type: loadout
+      id: NWLoadoutOuterEnclaveZuluReconArmor
+    - type: loadout
+      id: NWLoadoutOuterEnclaveNovemberReconArmor
+
