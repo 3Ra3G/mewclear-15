@@ -37,7 +37,7 @@
     back: N14ClothingBackpackMilitary
     jumpsuit: N14ClothingUniformJumpsuitEnclave
     shoes: N14ClothingBootsLeather
-    belt: ClothingBeltMilitary
+    belt: NWClothingBeltEnclaveWebbing
     ears: N14ClothingHeadsetEnclave
     id: N14IDEnclaveTrooper
   satchel: N14ClothingBackpackSatchelMilitaryFilled

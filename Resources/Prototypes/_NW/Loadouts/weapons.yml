@@ -1,5 +1,5 @@
 - type: loadout
-  id: NWWeaponRifleM1GarandNewGlory
+  id: NWWLoadoutWeaponRifleM1GarandNewGlory
   category: Weapons
   cost: 6
   requirements:
