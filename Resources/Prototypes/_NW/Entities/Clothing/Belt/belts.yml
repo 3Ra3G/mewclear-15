@@ -1,0 +1,114 @@
+- type: entity
+  parent: N14ClothingBeltStorageBase
+  id: NWClothingBeltMilitaryWebbing
+  name: military field webbing
+  description: A simple load-bearing rig capable of holding all kinds of ammunition, including a pistol holster. Commonly issued to pre-war military
+  components:
+  - type: Sprite
+    sprite: _NW/Clothing/Belt/MilitaryWebVest.rsi
+  - type: Clothing
+    sprite: _NW/Clothing/Belt/MilitaryWebVest.rsi
+  - type: Appearance
+  - type: Storage
+    whitelist:
+      tags:
+        - Sidearm
+        - Wrench
+        - Bottle
+        - Spray
+        - Brutepack
+        - Bloodpack
+        - Gauze
+        - Ointment
+        - CigPack
+        - PillCanister
+        - Radio
+        - DiscreteHealthAnalyzer
+        - SurgeryTool
+        - N14AmmoCell
+        - Abraxo
+        - Document
+      components:
+        - Hypospray
+        - Injector
+        - Pill
+        - HandLabeler
+        - BallisticAmmoProvider
+        - CartridgeAmmo
+
+
+- type: entity
+  parent: N14ClothingBeltStorageBase
+  id: NWClothingBeltNCRWebbing
+  name: NCR field webbing
+  description: A simple load-bearing rig capable of holding all kinds of ammunition, including a pistol holster. Commonly issued to NCR Army troopers.
+  components:
+  - type: Sprite
+    sprite: _NW/Clothing/Belt/NCRWebVest.rsi
+  - type: Clothing
+    sprite: _NW/Clothing/Belt/NCRWebVest.rsi
+  - type: Appearance
+  - type: Storage
+    whitelist:
+      tags:
+        - Sidearm
+        - Wrench
+        - Bottle
+        - Spray
+        - Brutepack
+        - Bloodpack
+        - Gauze
+        - Ointment
+        - CigPack
+        - PillCanister
+        - Radio
+        - DiscreteHealthAnalyzer
+        - SurgeryTool
+        - N14AmmoCell
+        - Abraxo
+        - Document
+      components:
+        - Hypospray
+        - Injector
+        - Pill
+        - HandLabeler
+        - BallisticAmmoProvider
+        - CartridgeAmmo
+
+- type: entity
+  parent: N14ClothingBeltStorageBase
+  id: NWClothingBeltEnclaveWebbing
+  name: Enclave field webbing
+  description: A simple load-bearing rig capable of holding all kinds of ammunition, including a pistol holster. Commonly used by Enclave remnants.
+  components:
+  - type: Sprite
+    sprite: _NW/Clothing/Belt/EnclaveWebVest.rsi
+  - type: Clothing
+    sprite: _NW/Clothing/Belt/EnclaveWebVest.rsi
+  - type: Appearance
+  - type: Storage
+    whitelist:
+      tags:
+        - Sidearm
+        - Wrench
+        - Bottle
+        - Spray
+        - Brutepack
+        - Bloodpack
+        - Gauze
+        - Ointment
+        - CigPack
+        - PillCanister
+        - Radio
+        - DiscreteHealthAnalyzer
+        - SurgeryTool
+        - N14AmmoCell
+        - Abraxo
+        - Document
+      components:
+        - Hypospray
+        - Injector
+        - Pill
+        - HandLabeler
+        - BallisticAmmoProvider
+        - CartridgeAmmo
