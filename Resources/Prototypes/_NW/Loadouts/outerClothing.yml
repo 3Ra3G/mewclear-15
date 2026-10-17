@@ -13,6 +13,7 @@
       - EnclaveRemnant
   items:
     - NWClothingOuterEnclaveReconArmor
+
 - type: loadout
   id: NWLoadoutOuterEnclaveZuluReconArmor
   category: Outer
@@ -28,6 +29,7 @@
       - EnclaveRemnant
   items:
     - NWClothingOuterEnclaveZuluReconArmor
+
 - type: loadout
   id: NWLoadoutOuterEnclaveNovemberReconArmor
   category: Outer

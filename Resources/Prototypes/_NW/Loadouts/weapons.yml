@@ -10,6 +10,7 @@
        - EnclaveRemnant
   items:
     - NWWeaponRifleM1GarandNewGlory
+
 - type: loadout
   id: NWWeaponPistolEnclaveRemnants10mm
   category: Weapons

@@ -14,6 +14,7 @@
       - EnclaveRemnant
   items:
     - NWClothingHeadHatEnclaveReconHelmet
+
 - type: loadout
   id: NWClothingHeadHatEnclaveZuluReconHelmet
   category: Head
@@ -30,6 +31,7 @@
       - EnclaveRemnant
   items:
     - NWClothingHeadHatEnclaveZuluReconHelmet
+
 - type: loadout
   id: NWClothingHeadHatEnclaveNovemberReconHelmet
   category: Head

@@ -1,6 +1,6 @@
 - type: entity
   name: New Glory
-  parent: N14WeaponRifle308Battle
+  parent: N14WeaponRifleBase
   id: NWWeaponRifleM1GarandNewGlory
   description: An M1 Garand with an old Enclave flag tied in the stock. "Remember Adamms" is scratched in the reciever.
   components:
@@ -17,5 +17,42 @@
       map: ["enum.GunVisualLayers.Base"]
     - state: mag-1
       map: ["enum.GunVisualLayers.Mag"]
+  - type: ChamberMagazineAmmoProvider
+    autoEject: true
+    retainEmptyWhenChambered: true # #Misfits Fixed - same en-bloc clip retention as the M1 Garand
+  - type: GunWieldBonus
+    minAngle: -23
+    maxAngle: -56
+  - type: Gun
+    minAngle: 24
+    maxAngle: 60
+    angleIncrease: 4
+    angleDecay: 16
+    fireRate: 3
+    soundGunshot:
+     collection: N14BattleRifleGunshot
+    selectedMode: SemiAuto
+    availableModes:
+    - SemiAuto
+  - type: ItemSlots
+    slots:
+     gun_magazine:
+      name: Magazine
+      startingItem: ClipMagazine308Rifle
+      insertSound: /Audio/Weapons/Guns/MagIn/ltrifle_magin.ogg
+      ejectSound: /Audio/Weapons/Guns/MagOut/ltrifle_magout.ogg
+      priority: 2
+      whitelist:
+        tags:
+         - N14Clip308Rifle
+    gun_chamber:
+      name: Chamber
+      startingItem: N14Cartridge308Rifle
+      priority: 1
+      whitelist:
+        tags:
+        - N14Cartridge308Rifle
+  - type: FollowDistance
+    backStrength: 3
   - type: StaticPrice
     price: 900
