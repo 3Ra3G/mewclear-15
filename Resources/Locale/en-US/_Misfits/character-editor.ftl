@@ -36,7 +36,6 @@ loadout-category-OtherMask = Other
 loadout-category-AnimalMasks = Animal Masks
 loadout-category-FactionMajorMask = Factions Major
 loadout-category-FactionMinorMask = Factions Minor
-loadout-category-Helmets = Helmets
 loadout-category-ScarvesMask = Scarves
 loadout-category-SupermutantMask = Supermutant
 loadout-category-OtherNeck = Other
