@@ -1,0 +1,39 @@
+- type: characterItemGroup
+  id: NWLoadoutOuter
+  items:
+    - type: loadout
+      id: MisfitsLoadoutOuterMarkedMenCombatTribalArmor
+    - type: loadout
+      id: MisfitsLoadoutOuterMarkedMenCombatPatrolArmor
+    - type: loadout
+      id: MisfitsLoadoutOuterMarkedMenCombatTribalArmor
+    - type: loadout
+      id: MisfitsLoadoutOuterHighwayPatrolJacket
+    - type: loadout
+      id: MisfitsLoadoutOuterMarlowGangOvercoat
+    - type: loadout
+      id: MisfitsLoadoutOuterGunfightersOvercoat
+    - type: loadout
+      id: MisfitsLoadoutOuterVegabondsVest
+    - type: loadout
+      id: MisfitsLoadoutOuterCombatTalon
+    - type: loadout 
+      id: MisfitsLoadoutOuterCombatTalonDuster
+    - type: loadout
+      id: MisfitsLoadoutOuterDeadHorsesArmor
+    - type: loadout
+      id: MisfitsLoadoutOuterDeadHorsesLightArmor
+    - type: loadout
+      id: MisfitsLoadoutOuterSorrowsArmor
+    - type: loadout
+      id: MisfitsLoadoutOuterRustwalkersArmor
+    - type: loadout
+      id: MisfitsLoadoutOuterRustwalkersLightArmor
+    - type: loadout
+      id: MisfitsLoadoutOuterWesternWayfarerArmor
+    - type: loadout
+      id: MisfitsLoadoutOuterWesternWayfarerHeavyArmor
+    - type: loadout
+      id: MisfitsLoadoutOuterWardenPlate
+    - type: loadout
+      id: MisfitsLoadoutOuterWhiteLegsArmor

@@ -1,0 +1,160 @@
+# These items should be used for the uniform slot. They can provide additional protection or cosmetic appeal. It's mainly aimed towards Wastelanders or factions that aren't an official faction yet.
+# Dresses / Jumpsuits / Suits / Other 
+
+# Dresses
+
+# Jumpsuits
+
+- type: loadout
+  id: MisfitsLoadoutUniformADPUniform
+  category: Jumpsuits
+  cost: 0
+  exclusive: true
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: NWLoadoutUniform
+    - !type:CharacterDepartmentRequirement
+      departments:
+        - Wastelander
+        - Townsfolk
+  items:
+    - M14ClothingUniformADPUniform
+
+- type: loadout
+  id: MisfitsLoadoutUniformMarlowdudsUniform
+  category: Jumpsuits
+  cost: 0
+  exclusive: true
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: NWLoadoutUniform
+    - !type:CharacterDepartmentRequirement
+      departments:
+        - Wastelander
+        - Townsfolk
+  items:
+    - M14ClothingUniformMarlowdudsUniform
+
+- type: loadout
+  id: MisfitsLoadoutUniformIkedudsUniform
+  category: Jumpsuits
+  cost: 0
+  exclusive: true
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: NWLoadoutUniform
+    - !type:CharacterDepartmentRequirement
+      departments:
+        - Wastelander
+        - Townsfolk
+  items:
+    - M14ClothingUniformIkedudsUniform
+
+- type: loadout
+  id: MisfitsLoadoutUniformHelendudsUniform
+  category: Jumpsuits
+  cost: 0
+  exclusive: true
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: NWLoadoutUniform
+    - !type:CharacterDepartmentRequirement
+      departments:
+        - Wastelander
+        - Townsfolk
+  items:
+    - M14ClothingUniformHelendudsUniform
+
+- type: loadout
+  id: MisfitsLoadoutUniformMasondudsUniform
+  category: Jumpsuits
+  cost: 0
+  exclusive: true
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: NWLoadoutUniform
+    - !type:CharacterDepartmentRequirement
+      departments:
+        - Wastelander
+        - Townsfolk
+  items:
+    - M14ClothingUniformMasondudsUniform
+
+- type: loadout
+  id: MisfitsLoadoutUniformSchlimmUniform
+  category: Jumpsuits
+  cost: 0
+  exclusive: true
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: NWLoadoutUniform
+    - !type:CharacterDepartmentRequirement
+      departments:
+        - Wastelander
+        - Townsfolk
+  items:
+    - M14ClothingUniformSchlimmUniform
+
+- type: loadout
+  id: MisfitsLoadoutUniformDeadHorsesUniform # If Dead Horses ever becomes a faction, then this should be moved to faction loadouts.
+  category: Jumpsuits
+  cost: 0
+  exclusive: true
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: NWLoadoutUniform
+    - !type:CharacterDepartmentRequirement
+      departments:
+        - Wastelander
+        - Tribe
+  items:
+    - M14ClothingUniformDeadHorsesUniform
+
+- type: loadout
+  id: MisfitsLoadoutUniformSorrowsUniform # If Sorrows ever becomes a faction, then this should be moved to faction loadouts.
+  category: Jumpsuits
+  cost: 0
+  exclusive: true
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: NWLoadoutUniform
+    - !type:CharacterDepartmentRequirement
+      departments:
+        - Wastelander
+        - Tribe
+  items:
+    - M14ClothingUniformSorrowsUniform
+
+- type: loadout
+  id: MisfitsLoadoutUniformRustwalkersUniform
+  category: Jumpsuits
+  cost: 0
+  exclusive: true
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: NWLoadoutUniform
+    - !type:CharacterDepartmentRequirement
+      departments:
+        - Wastelander
+        - Tribe
+  items:
+    - M14ClothingUniformRustwalkersUniform
+
+- type: loadout
+  id: MisfitsLoadoutUniformWhiteLegsUniform # If White Legs ever becomes a faction, then this should be moved to faction loadouts.
+  category: Jumpsuits
+  cost: 0
+  exclusive: true
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: NWLoadoutUniform
+    - !type:CharacterDepartmentRequirement
+      departments:
+        - Wastelander
+        - Tribe
+  items:
+    - M14ClothingUniformWhiteLegsUniform
+
+# Suits
+
+# Other

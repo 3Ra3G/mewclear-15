@@ -2,25 +2,25 @@
 # AUncategorized is always first in subcategories to stay consistent with the root Uncategorized
 # AUncategorized is not a spelling mistake, and might have more As added as needed
 
-- type: loadoutCategory
-  id: Uncategorized
-  root: true
+# - type: loadoutCategory
+#  id: Uncategorized
+#  root: true
 
 #- type: loadoutCategory
 #  id: Backpacks
 #  root: true
 
-- type: loadoutCategory
-  id: Eyes
-  root: true
+#- type: loadoutCategory
+ # id: Eyes
+ # root: true
 
 - type: loadoutCategory
   id: Hands
   root: true
 
-- type: loadoutCategory
-  id: Head
-  root: true
+#- type: loadoutCategory
+#  id: Head
+#  root: true
 
 - type: loadoutCategory
   id: Items

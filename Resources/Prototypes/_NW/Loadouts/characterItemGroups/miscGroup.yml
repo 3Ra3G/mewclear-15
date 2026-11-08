@@ -1,0 +1,25 @@
+- type: characterItemGroup
+  id: NWLoadoutSmokeables
+  items:
+    - type: loadout
+      id: N14LoadoutItemCigsSalem
+    - type: loadout
+      id: N14LoadoutItemCigsKool
+    - type: loadout
+      id: N14LoadoutItemCigsMarlboro
+    - type: loadout
+      id: N14LoadoutItemCigsWinston
+    - type: loadout
+      id: N14LoadoutItemCigsCustom
+    - type: loadout
+      id: N14LoadoutItemCigsRepublics
+
+- type: characterItemGroup
+  id: NWLoadoutLighters
+  items:
+    - type: loadout
+      id: N14LoadoutItemLighter
+    - type: loadout
+      id: N14LoadoutItemLighterCheap
+    - type: loadout
+      id: N14LoadoutItemMatches

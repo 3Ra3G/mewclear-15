@@ -1,0 +1,273 @@
+# These items should be used for the outer slot. They can provide additional protection or cosmetic appeal. It's mainly aimed towards Wastelanders or factions that aren't an official faction yet.
+# Armor / Coats  / Other 
+
+# Armor
+
+- type: loadout
+  id: MisfitsLoadoutOuterMarkedMenCombatTribalArmor
+  category: Armor
+  cost: 6
+  exclusive: true
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: NWLoadoutOuter
+    - !type:CharacterSpeciesRequirement
+      species:
+        - Ghoul
+        - GhoulGlowing
+    - !type:CharacterDepartmentTimeRequirement # T6 faction timelock (20h NCR)
+      department: CaesarLegion
+      min: 18000 # 5 hours
+    - !type:CharacterDepartmentRequirement
+      departments:
+        - Wastelander
+  items:
+    -  M14ClothingOuterMarkedMenCombatTribalArmor
+
+- type: loadout
+  id: MisfitsLoadoutOuterMarkedMenCombatPatrolArmor
+  category: Armor
+  cost: 6
+  exclusive: true
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: NWLoadoutOuter
+    - !type:CharacterSpeciesRequirement
+      species:
+        - Ghoul
+        - GhoulGlowing
+    - !type:CharacterDepartmentTimeRequirement # T6 faction timelock (20h NCR)
+      department: NCR
+      min: 18000 # 5 hours
+    - !type:CharacterDepartmentRequirement
+      departments:
+        - Wastelander
+  items:
+    -  M14ClothingOuterMarkedMenCombatPatrolArmor
+
+- type: loadout
+  id: MisfitsLoadoutOuterCombatTalon
+  category: Armor
+  cost: 6
+  exclusive: true
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: NWLoadoutOuter
+    - !type:CharacterDepartmentRequirement
+      departments:
+        - Wastelander
+  items:
+    -  M14ClothingOuterCombatTalon
+
+- type: loadout
+  id: MisfitsLoadoutOuterCombatTalonDuster
+  category: Armor
+  cost: 6
+  exclusive: true
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: NWLoadoutOuter
+    - !type:CharacterDepartmentRequirement
+      departments:
+        - Wastelander
+  items:
+    -  M14ClothingOuterCombatTalonDuster
+
+- type: loadout
+  id: MisfitsLoadoutOuterDeadHorsesArmor # If Dead Horses ever becomes a faction, then this should be moved to faction loadouts.
+  category: Armor
+  cost: 4
+  exclusive: true
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: NWLoadoutOuter
+    - !type:CharacterDepartmentRequirement
+      departments:
+        - Wastelander
+        - Tribe
+  items:
+    -  M14ClothingOuterDeadHorsesArmor
+
+- type: loadout
+  id: MisfitsLoadoutOuterDeadHorsesLightArmor # If Dead Horses ever becomes a faction, then this should be moved to faction loadouts.
+  category: Armor
+  cost: 4
+  exclusive: true
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: NWLoadoutOuter
+    - !type:CharacterDepartmentRequirement
+      departments:
+        - Wastelander
+        - Tribe
+  items:
+    -  M14ClothingOuterDeadHorsesLightArmor
+
+- type: loadout
+  id: MisfitsLoadoutOuterSorrowsArmor # If Sorrows ever becomes a faction, then this should be moved to faction loadouts.
+  category: Armor
+  cost: 4
+  exclusive: true
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: NWLoadoutOuter
+    - !type:CharacterDepartmentRequirement
+      departments:
+        - Wastelander
+        - Tribe
+  items:
+    -  M14ClothingOuterSorrowsArmor
+
+- type: loadout
+  id: MisfitsLoadoutOuterRustwalkersArmor
+  category: Armor
+  cost: 4
+  exclusive: true
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: NWLoadoutOuter
+    - !type:CharacterDepartmentRequirement
+      departments:
+        - Wastelander
+        - Tribe
+  items:
+    -  M14ClothingOuterRustwalkersArmor
+
+- type: loadout
+  id: MisfitsLoadoutOuterRustwalkersLightArmor
+  category: Armor
+  cost: 4
+  exclusive: true
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: NWLoadoutOuter
+    - !type:CharacterDepartmentRequirement
+      departments:
+        - Wastelander
+        - Tribe
+  items:
+    -  M14ClothingOuterRustwalkersLightArmor
+
+- type: loadout
+  id: MisfitsLoadoutOuterWesternWayfarerArmor
+  category: Armor
+  cost: 4
+  exclusive: true
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: NWLoadoutOuter
+    - !type:CharacterDepartmentRequirement
+      departments:
+        - Wastelander
+        - Tribe
+  items:
+    -  M14ClothingOuterWesternWayfarerArmor
+
+- type: loadout
+  id: MisfitsLoadoutOuterWesternWayfarerHeavyArmor
+  category: Armor
+  cost: 4
+  exclusive: true
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: NWLoadoutOuter
+    - !type:CharacterDepartmentRequirement
+      departments:
+        - Wastelander
+        - Tribe
+  items:
+    -  M14ClothingOuterWesternWayfarerHeavyArmor
+
+- type: loadout
+  id: MisfitsLoadoutOuterWardenPlate
+  category: Armor
+  cost: 4
+  exclusive: true
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: NWLoadoutOuter
+    - !type:CharacterDepartmentRequirement
+      departments:
+        - Wastelander
+        - Tribe
+  items:
+    -  M14ClothingOuterWardenPlate
+
+- type: loadout
+  id: MisfitsLoadoutOuterWhiteLegsArmor
+  category: Armor
+  cost: 4
+  exclusive: true
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: NWLoadoutOuter
+    - !type:CharacterDepartmentRequirement
+      departments:
+        - Wastelander
+        - Tribe
+  items:
+    -  MisfitsClothingOuterWhiteLegsArmor
+
+# Coats
+
+- type: loadout
+  id: MisfitsLoadoutOuterMarlowGangOvercoat
+  category: Coats
+  cost: 2
+  exclusive: true
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: NWLoadoutOuter
+    - !type:CharacterDepartmentRequirement
+      departments:
+        - Wastelander
+        - Townsfolk
+  items:
+    -  M14ClothingOuterMarlowGangOvercoat
+
+- type: loadout
+  id: MisfitsLoadoutOuterGunfightersOvercoat
+  category: Coats
+  cost: 2
+  exclusive: true
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: NWLoadoutOuter
+    - !type:CharacterDepartmentRequirement
+      departments:
+        - Wastelander
+        - Townsfolk
+  items:
+    -  M14ClothingOuterGunfightersOvercoat
+
+# Other
+
+- type: loadout
+  id: MisfitsLoadoutOuterHighwayPatrolJacket
+  category: OtherOuter
+  cost: 2
+  exclusive: true
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: NWLoadoutOuter
+    - !type:CharacterDepartmentRequirement
+      departments:
+        - Wastelander
+        - Townsfolk
+  items:
+    - M14ClothingOuterHighwayPatrolJacket
+  
+- type: loadout
+  id: MisfitsLoadoutOuterVegabondsVest
+  category: OtherOuter
+  cost: 2
+  exclusive: true
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: NWLoadoutOuter
+    - !type:CharacterDepartmentRequirement
+      departments:
+        - Wastelander
+        - Townsfolk
+  items:
+    -  M14ClothingOuterVegabondsVest

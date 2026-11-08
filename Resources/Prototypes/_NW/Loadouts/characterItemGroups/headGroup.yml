@@ -1,0 +1,9 @@
+- type: characterItemGroup
+  id: NWLoadoutHead
+  items:
+    - type: loadout
+      id: MisfitsLoadoutHeadHeadAHPhelmet
+    - type: loadout
+      id: MisfitsLoadoutHeadHeadSchlimmHat
+    - type: loadout
+      id: MisfitsLoadoutHeadHeadMarlowHat

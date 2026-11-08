@@ -20,10 +20,65 @@ character-minPlayers-requirement = Minimum {$min} players required
 loadout-category-Bags = Bags
 loadout-category-Duffel = Duffel Bags
 loadout-category-Satchel = Satchels
+loadout-category-OtherHead = Other
+loadout-category-FactionMajorHead = Factions Major
+loadout-category-FactionMinorHead = Factions Minor
+loadout-category-Hats = Hats
+loadout-category-Helmets = Helmets
+loadout-category-SupermutantHead = Supermutant
+loadout-category-OtherWeapons = Other
+loadout-category-Ammunition = Ammunition
+loadout-category-Melee = Melee
+loadout-category-Hats = Pistols
+loadout-category-Helmets = Rifles
+loadout-category-Shotguns = Shotguns
+loadout-category-OtherMask = Other
+loadout-category-AnimalMasks = Animal Masks
+loadout-category-FactionMajorMask = Factions Major
+loadout-category-FactionMinorMask = Factions Minor
+loadout-category-Helmets = Helmets
+loadout-category-ScarvesMask = Scarves
+loadout-category-SupermutantMask = Supermutant
+loadout-category-OtherNeck = Other
+loadout-category-Cloaks = Cloaks
+loadout-category-FactionMajorNeck = Factions Major
+loadout-category-FactionMinorNeck = Factions Minor
+loadout-category-Mantles = Mantles
+loadout-category-ScarvesNeck = Scarves
+loadout-category-SupermutantNeck = Supermutant
+loadout-category-OtherOuter = Other
+loadout-category-Armor = Armor
+loadout-category-Coats = Coats
+loadout-category-FactionMajorOuter = Factions Major
+loadout-category-FactionMinorOuter = Factions Minor
+loadout-category-SupermutantOuter = Supermutant
+loadout-category-OtherUniform = Other
+loadout-category-Dresses = Dresses
+loadout-category-Jumpsuits = Jumpsuits
+loadout-category-FactionMajorUniform = Factions Major
+loadout-category-FactionMinorUniform = Factions Minor
+loadout-category-Suits = Suits
+loadout-category-SupermutantUniform = Supermutant
 
 # Character item groups
-character-item-group-N14LodaoutBags = Bags
+character-item-group-N14LodaoutBags = [color=yellow]Bags[/color]
 character-item-group-N14LoadoutUniform = Uniforms
+character-item-group-NwLoadoutUniform = [color=yellow]Uniforms[/color]
+character-item-group-NwLoadoutEyes = [color=yellow]Eyewear[/color]
+character-item-group-NWLoadoutHands = [color=yellow]Gloves[/color]
+character-item-group-NWLoadoutHead = [color=yellow]Headgear[/color]
+character-item-group-NWLoadoutMask = [color=yellow]Masks[/color]
+character-item-group-NWLoadoutSmokeables = [color=yellow]Smokeables[/color]
+character-item-group-NWLoadoutLighters = [color=yellow]Lighters[/color]
+character-item-group-NWLoadoutGuns = [color=yellow]Guns[/color]
+character-item-group-NWLoadoutAmmo = [color=yellow]Ammo[/color]
+character-item-group-NWLoadoutMelee = [color=yellow]Melee Weapons[/color]
+character-item-group-NWLoadoutNeck = [color=yellow]Neckwear[/color]
+character-item-group-NWLoadoutOuter = [color=yellow]Outerwear[/color]
+character-item-group-NWLoadoutShoes = [color=yellow]Shoes[/color]
+character-item-group-NWLoadoutAmmoBig = [color=yellow]Big Ammo[/color]
+character-item-group-NWLoadoutAmmoBox = [color=yellow]Ammo Box[/color]
+character-item-group-NWLoadoutGunsBig = [color=yellow]Big Guns[/color]
 
 # Observer action loc keys (observer.yml uses raw display text in upstream Corvax)
 action-name-toggle-lighting = Toggle All Lighting

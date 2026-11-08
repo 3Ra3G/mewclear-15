@@ -1,0 +1,24 @@
+- type: characterItemGroup
+  id: NWLoadoutUniform
+  items:
+    - type: loadout
+      id: MisfitsLoadoutUniformADPUniform
+    - type: loadout
+      id: MisfitsLoadoutUniformMarlowdudsUniform
+    - type: loadout
+      id: MisfitsLoadoutUniformIkedudsUniform
+    - type: loadout
+      id: MisfitsLoadoutUniformHelendudsUniform
+    - type: loadout
+      id: MisfitsLoadoutUniformMasondudsUniform
+    - type: loadout
+      id: MisfitsLoadoutUniformDeadHorsesUniform
+    - type: loadout
+      id: MisfitsLoadoutUniformSchlimmUniform
+    - type: loadout
+      id: MisfitsLoadoutUniformSorrowsUniform
+    - type: loadout
+      id: MisfitsLoadoutUniformRustwalkersUniform
+    - type: loadout
+      id: MisfitsLoadoutUniformWhiteLegsUniform
+   

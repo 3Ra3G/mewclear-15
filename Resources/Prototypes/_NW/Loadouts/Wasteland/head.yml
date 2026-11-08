@@ -1,0 +1,52 @@
+# These items should be used for the head slot, and eyes slot. They can provide additional protection or cosmetic appeal. It's mainly aimed towards Wastelanders or factions that aren't an official faction yet.
+# Hats / Helmets / Eyes / Other 
+
+# Hats
+- type: loadout
+  id: MisfitsLoadoutHeadHeadMarlowHat
+  category: Hats
+  cost: 0
+  exclusive: true
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: NWLoadoutHead
+    - !type:CharacterDepartmentRequirement
+      departments:
+        - Wastelander
+        - Townsfolk
+  items:
+    - MisfitsClothingHeadMarlowHat
+
+- type: loadout
+  id: MisfitsLoadoutHeadHeadSchlimmHat
+  category: Hats
+  cost: 0
+  exclusive: true
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: NWLoadoutHead
+    - !type:CharacterDepartmentRequirement
+      departments:
+        - Wastelander
+        - Townsfolk
+  items:
+    - MisfitsClothingHeadSchlimmHat
+
+# Helmets
+- type: loadout
+  id: MisfitsLoadoutHeadHeadAHPhelmet
+  category: Helmets
+  cost: 0
+  exclusive: true
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: NWLoadoutHead
+    - !type:CharacterDepartmentRequirement
+      departments:
+        - Wastelander
+        - Townsfolk
+  items:
+    - MisfitsClothingHeadAHPhelmet
+# Eyes
+
+# Other

@@ -1,0 +1,249 @@
+# See the following file for existing categories: Resources\Prototypes\Loadouts\categories.yml
+# Resources\Locale\en-US\_Misfits\character-editor.ftl
+
+# Categories
+
+- type: loadoutCategory
+  id: Head
+  root: true
+  subCategories:
+  - OtherHead
+  - Eyes
+  - Hats
+  - Helmets
+  - FactionMajorHead
+  - FactionMinorHead
+  - SupermutantHead
+
+- type: loadoutCategory
+  id: Weapons
+  root: true
+  subCategories:
+  - OtherWeapons
+  - Ammunition
+  - Melee
+  - Pistols
+  - Rifles
+  - Shotguns
+
+- type: loadoutCategory
+  id: Mask
+  root: true
+  subCategories:
+  - OtherMask
+  - AnimalMasks
+  - ScarvesMask
+  - FactionMajorMask
+  - FactionMinorMask
+  - SupermutantMask
+
+- type: loadoutCategory
+  id: Neck
+  root: true
+  subCategories:
+  - OtherNeck
+  - Cloaks
+  - Mantles
+  - ScarvesNeck
+  - FactionMajorNeck
+  - FactionMinorNeck
+  - SupermutantNeck
+
+- type: loadoutCategory
+  id: Outer
+  root: true
+  subCategories:
+  - OtherOuter
+  - Armor
+  - Coats
+  - FactionMajorOuter
+  - FactionMinorOuter
+  - SupermutantOuter
+
+- type: loadoutCategory
+  id: Uniform
+  root: true
+  subCategories:
+  - OtherUniform
+  - Dresses
+  - Jumpsuits
+  - Suits
+  - FactionMajorUniform
+  - FactionMinorUniform
+  - SupermutantUniform
+
+
+# Subcategories
+
+## Head
+
+- type: loadoutCategory
+  id: OtherHead
+  root: true
+
+- type: loadoutCategory
+  id: Eyes
+  root: true
+
+- type: loadoutCategory
+  id: FactionMajorHead
+  root: true
+
+- type: loadoutCategory
+  id: FactionMinorHead
+  root: true
+
+- type: loadoutCategory
+  id: Hats
+  root: true
+
+- type: loadoutCategory
+  id: Helmets
+  root: true
+
+- type: loadoutCategory
+  id: SupermutantHead
+  root: true
+
+
+## Weapons
+
+- type: loadoutCategory
+  id: OtherWeapons
+  root: true
+
+- type: loadoutCategory
+  id: Ammunition
+  root: true
+
+- type: loadoutCategory
+  id: Melee
+  root: true
+
+- type: loadoutCategory
+  id: Pistols
+  root: true
+
+- type: loadoutCategory
+  id: Rifles
+  root: true
+
+- type: loadoutCategory
+  id: Shotguns
+  root: true
+
+
+## Mask
+
+- type: loadoutCategory
+  id: OtherMask
+  root: true
+
+- type: loadoutCategory
+  id: AnimalMasks
+  root: true
+
+- type: loadoutCategory
+  id: FactionMajorMask
+  root: true
+
+- type: loadoutCategory
+  id: FactionMinorMask
+  root: true
+
+- type: loadoutCategory
+  id: ScarvesMask
+  root: true
+
+- type: loadoutCategory
+  id: SupermutantMask
+  root: true
+
+
+## Neck
+
+- type: loadoutCategory
+  id: OtherNeck
+  root: true
+
+- type: loadoutCategory
+  id: Cloaks
+  root: true
+
+- type: loadoutCategory
+  id: FactionMajorNeck
+  root: true
+
+- type: loadoutCategory
+  id: FactionMinorNeck
+  root: true
+
+- type: loadoutCategory
+  id: Mantles
+  root: true
+
+- type: loadoutCategory
+  id: ScarvesNeck
+  root: true
+
+- type: loadoutCategory
+  id: SupermutantNeck
+  root: true
+
+
+## Outer
+
+- type: loadoutCategory
+  id: OtherOuter
+  root: true
+
+- type: loadoutCategory
+  id: Armor
+  root: true
+
+- type: loadoutCategory
+  id: Coats
+  root: true
+
+- type: loadoutCategory
+  id: FactionMajorOuter
+  root: true
+
+- type: loadoutCategory
+  id: FactionMinorOuter
+  root: true
+
+- type: loadoutCategory
+  id: SupermutantOuter
+  root: true
+
+
+## Uniform
+
+- type: loadoutCategory
+  id: OtherUniform
+  root: true
+
+- type: loadoutCategory
+  id: Dresses
+  root: true
+
+- type: loadoutCategory
+  id: Jumpsuits
+  root: true
+
+- type: loadoutCategory
+  id: FactionMajorUniform
+  root: true
+
+- type: loadoutCategory
+  id: FactionMinorUniform
+  root: true
+
+- type: loadoutCategory
+  id: Suits
+  root: true
+
+- type: loadoutCategory
+  id: SupermutantUniform
+  root: true
