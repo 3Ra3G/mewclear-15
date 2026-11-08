@@ -293,17 +293,17 @@
 
 # Now Leaving: Jobs Category
 
-- type: loadoutCategory
-  id: Mask
-  root: true
+#- type: loadoutCategory
+ # id: Mask
+#  root: true
 
-- type: loadoutCategory
-  id: Neck
-  root: true
+#- type: loadoutCategory
+#  id: Neck
+ # root: true
 
-- type: loadoutCategory
-  id: Outer
-  root: true
+#- type: loadoutCategory
+#  id: Outer
+#  root: true
 
 - type: loadoutCategory
   id: Shoes
@@ -313,6 +313,6 @@
   id: Species
   root: true
 
-- type: loadoutCategory
-  id: Uniform
-  root: true
+#- type: loadoutCategory
+#  id: Uniform
+#  root: true
